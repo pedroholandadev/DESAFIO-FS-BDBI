@@ -1,0 +1,7 @@
+Percebe-se que no mês de Março, tem o maior faturamento do ano.
+
+Analisando o gráfico de Valor pago por localização que a cidade que mais compra é Sydney.
+
+O ano que mais tiveram compras foi 2001.
+
+A média de valor pago em compras no total é de 57,48 mil.
